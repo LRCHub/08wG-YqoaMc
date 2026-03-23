@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "pain's my only home",
+  "base_artist": "Zevia",
+  "createdAt": "2026-03-23T09:30:57.331378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "pain's my only home",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/01_pain's_my_only_home_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pain's my only home (Official Lyric Video)",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/02_pain's_my_only_home_(Official_Lyric_Video)_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "pain's my only home",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/03_pain's_my_only_home_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "pain's my only home (Slowed Down)",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/04_pain's_my_only_home_(Slowed_Down)_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zevia - pain's my only home (Official Lyric Video)",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/05_Zevia_-_pain's_my_only_home_(Official_Lyric_Video)_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "pain's my only home (Sped Up)",
+      "artist": "Zevia",
+      "has_synced": true,
+      "path": "select/06_pain's_my_only_home_(Sped_Up)_Zevia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zevia - pain's my only home (Slowed Down - Official Audio)",
+      "artist": "Zevia",
+      "has_synced": false,
+      "path": "select/07_Zevia_-_pain's_my_only_home_(Slowed_Down_-_Official_Audio)_Zevia.txt"
+    }
+  ]
+}
